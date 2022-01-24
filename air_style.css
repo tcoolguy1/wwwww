@@ -1,0 +1,22 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow:10px 10px 10px #00eeff;
+    border-radius: 10px;
+    border: 2px solid red ;
+}
+
+#bt
+{
+ float: right;
+}
